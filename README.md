@@ -1,6 +1,6 @@
 <div style="display: flex;">
-  ![Imagem Clima Frio](https://github.com/GuilhermeSchwengber20/WeatherApp/blob/main/src/assets/imagem-frio.png?raw=true)
-  ![Imagem Clima Calor](https://github.com/GuilhermeSchwengber20/WeatherApp/blob/main/src/assets/imagem-calor.png?raw=true)
+  <img src="https://github.com/GuilhermeSchwengber20/WeatherApp/blob/main/src/assets/imagem-frio.png?raw=true" />
+  <img src="https://github.com/GuilhermeSchwengber20/WeatherApp/blob/main/src/assets/imagem-calor.png?raw=true" />
 </div>
 
 
