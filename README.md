@@ -1,5 +1,8 @@
-![Imagem Clima Frio](https://github.com/GuilhermeSchwengber20/WeatherApp/blob/main/src/assets/imagem-frio.png?raw=true)
-![Imagem Clima Calor](https://github.com/GuilhermeSchwengber20/WeatherApp/blob/main/src/assets/imagem-calor.png?raw=true)
+<div style="display: flex;">
+  ![Imagem Clima Frio](https://github.com/GuilhermeSchwengber20/WeatherApp/blob/main/src/assets/imagem-frio.png?raw=true)
+  ![Imagem Clima Calor](https://github.com/GuilhermeSchwengber20/WeatherApp/blob/main/src/assets/imagem-calor.png?raw=true)
+</div>
+
 
 # WeatherApp
 Este é um aplicativo de previsão do tempo que fornece informações precisas sobre as condições climáticas atuais e futuras para qualquer localização no mundo. Ele utiliza tecnologias avançadas para coletar e exibir informações sobre temperatura, umidade, pressão atmosférica, velocidade do vento e muito mais.
