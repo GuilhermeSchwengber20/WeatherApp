@@ -1,13 +1,17 @@
-![Logo](https://github.com/GuilhermeSchwengber20/Netflix-clone---Vueflix/blob/main/src/assets/logo-big.png?raw=true)
+![Imagem Clima Frio](https://github.com/GuilhermeSchwengber20/WeatherApp/blob/main/src/assets/imagem-frio.png?raw=true)
+![Imagem Clima Calor](https://github.com/GuilhermeSchwengber20/WeatherApp/blob/main/src/assets/imagem-calor.png?raw=true)
 
 # WeatherApp
-Este é um projeto de clone da Netflix, construído com JavaScript, HTML5, CSS3, Vue.js, Vue Router, Vuex e Axios. O objetivo deste projeto é criar uma plataforma de streaming de vídeo que imita a interface da Netflix, oferecendo uma experiência semelhante ao usuário final.
+Este é um aplicativo de previsão do tempo que fornece informações precisas sobre as condições climáticas atuais e futuras para qualquer localização no mundo. Ele utiliza tecnologias avançadas para coletar e exibir informações sobre temperatura, umidade, pressão atmosférica, velocidade do vento e muito mais.
 
-![Badge em Desenvolvimento](http://img.shields.io/static/v1?label=STATUS&message=EM%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge)
+### Recursos
+* Previsão do tempo para qualquer localização
+
+![Badge concluido](http://img.shields.io/static/v1?label=STATUS&message=CONCLUIDO&color=GREEN&style=for-the-badge)
 ### 🛠 Instalação
 1. Clone este repositório na sua máquina local
 ```
-https://github.com/GuilhermeSchwengber20/Netflix-clone---Vueflix.git
+git clone https://github.com/GuilhermeSchwengber20/WeatherApp.git
 ```
 
 2. Instale as dependências do projeto
